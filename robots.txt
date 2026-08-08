@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ogs8mb.shadowdiary.com/sitemap.xml
